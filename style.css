@@ -53,8 +53,8 @@ h2 {
 }
 
 .project img {
-    width: 300px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
     border: 3px solid #1abc9c;
     border-radius: 50%;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
